@@ -19,7 +19,7 @@
 ## Demo: https://xxxxxxxxxx
 ## Built with
 
-xxxxxxxxxxxxxxxxxx
+Vite, React, Typescript, ChakraUI
 
 ## How to build:
 
