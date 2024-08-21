@@ -31,6 +31,8 @@ xxxxxxxxxxxxxxxxxx
 - git remote add origin https://github.com/luongkhdang/xxxxxxx
 - git push -u origin master
 
+- npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
+
 ### Landing Page
 
 > > ![](demo.JPG)
