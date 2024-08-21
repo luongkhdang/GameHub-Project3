@@ -53,7 +53,7 @@ To fix a bug or enhance an existing module, follow these steps:
 
 ## Team
 
-[![Luong Dang](https://avatars.githubusercontent.com/luongkhdang?v=2&s=100)](https://github.com/iharsh234)
+[![Luong Dang](https://avatars.githubusercontent.com/luongkhdang?v=2&s=100)](https://github.com/luongkhdang)
 
 [Luong Dang](https://github.com/luongkhdang)
 
