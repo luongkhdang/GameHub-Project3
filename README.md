@@ -32,6 +32,7 @@ Vite, React, Typescript, ChakraUI
 - git push -u origin master
 
 - npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
+- npm i react-icons@4.7.1
 
 ### Landing Page
 
