@@ -1,34 +1,34 @@
-# XXXXXXXXXXX (Project XXX - Basic React + Typescript)
+# Game Hub (Project 03 - Basic React + Typescript)
 
-# ![xxxxxxxxxxxxxx (Project xx - xxxxxx)](demo.JPG)
+# ![Game Hub  (Project 03 - Basic React + Typescript)](demo.JPG)
 
-# xxxxxxx
+# Game Hub
 
 <table>
 <tr>
 <td>
-  - This app is a xxxxxxxxxxx.
+  - This app is a frontpage, implement rawg.io API to query and sort games.
  </td>
 </tr>
 <tr>
 <td>
-  - Technologies: xxxxxxxxxxxxxxxxxxxx
+  - Technologies: React, Vite, Typescript, Chakra-ui
  </td>
 </tr>
 </table>
-## Demo: https://xxxxxxxxxx
+## Demo: https://game-hub-project3.vercel.app/
 ## Built with
 
 Vite, React, Typescript, ChakraUI
 
-## How to build:
+## How to build: React, Vite, Typescript, Chakra-ui
 
 - npm create vite@4.1.0
 - npm i
 - npm run dev
 - gh auth login
 - gh repo create `<`repo-name`>` --public
-- git remote add origin https://github.com/luongkhdang/xxxxxxx
+- git remote add origin https://github.com/luongkhdang/Project3-GameHub
 - git push -u origin master
 
 - npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
@@ -38,9 +38,13 @@ Vite, React, Typescript, ChakraUI
 
 > > ![](demo.JPG)
 
-### Query Filled Form
+### Loading Screen
 
 > > ![](demo2.JPG)
+
+### Light Mode
+
+> > ![](demo3.JPG)
 
 ## Mobile support
 
