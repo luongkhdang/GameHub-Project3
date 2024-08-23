@@ -16,7 +16,9 @@
  </td>
 </tr>
 </table>
+
 ## Demo: https://game-hub-project3.vercel.app/
+
 ## Built with
 
 Vite, React, Typescript, ChakraUI
@@ -40,11 +42,11 @@ Vite, React, Typescript, ChakraUI
 
 ### Loading Screen
 
-> > ![](demo2.JPG)
+> > ![](demo2.jpg)
 
 ### Light Mode
 
-> > ![](demo3.JPG)
+> > ![](demo3.jpg)
 
 ## Mobile support
 
