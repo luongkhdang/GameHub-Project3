@@ -35,6 +35,9 @@ Vite, React, Typescript, ChakraUI
 
 - npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
 - npm i react-icons@4.7.1
+- npm i react-infinite-scroll-component@6.1
+- npm i ms@2.1.3
+- npm i -D @types/ms //dev only
 
 ### Landing Page
 
