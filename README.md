@@ -8,6 +8,7 @@
 <tr>
 <td>
   - This app is a frontpage, implement rawg.io API to query and sort games.
+  - 3 types of query/sort: Genre, Platform, and SortOrder (Relavance, Date added, ...)
  </td>
 </tr>
 <tr>
