@@ -71,6 +71,10 @@ REFACTOR:
 
 > > ![](demo2.jpg)
 
+### Game Detail Page
+
+> > ![](demo4.JPG)
+
 ### Light Mode
 
 > > ![](demo3.jpg)
