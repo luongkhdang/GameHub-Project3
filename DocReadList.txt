@@ -1,0 +1,28 @@
+fetching data with cache, cancel query
+
+event.preventDefault(), useRef,
+axios : axios, APIClient (axios.create, endpoint, getAll) AxiosRequestConfig, CanceledError
+useContext , react.createContext
+
+@tanstack/react-query 
+	QueryClient, setQueryData
+	useQuery, 
+	useQueryClient
+	useInfiniteQuery,  fetchNextPage
+	useMutation
+
+
+react-infinite-scroll-component
+zustand - create 
+	- simple-zustand=devtools@1.1.0
+
+
+react-router-dom@6.10.0
+	- createBrowserRouter
+	- Link 
+	- usenavigate
+	- useParams
+	- useSearchParams
+	- useLocation
+	- Outlet (is child)
+	- useRouteError , isRouteErrorResponse
