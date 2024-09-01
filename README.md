@@ -40,6 +40,8 @@ Vite, React, Typescript, ChakraUI
 - npm i ms@2.1.3
 - npm i -D @types/ms //dev only
 
+---
+
 - PROJECT 3.1
 
 - npm i @tanstack/react-query@4.28
@@ -54,6 +56,12 @@ import { ReactQueryDevtools } from "@tanstack/react-query-devtools";
 REFACTOR:
 
 - app.tsx: In project 3, we use state hook to maintain some local state (gameQuery). We will refactor to reducers to centralize the state management logic using Zustand State Management Library. Then, we use ReactContext to share our gameQuery to any component in this tree. "store"
+
+---
+
+- Project 3.2 - Routes
+
+- npm i react-router-dom@6.10.0
 
 ### Landing Page
 
