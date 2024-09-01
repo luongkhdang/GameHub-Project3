@@ -100,3 +100,42 @@ To fix a bug or enhance an existing module, follow these steps:
 ## [License](https://github.com/luongkhdang/xxxxx/LICENSE.md)
 
 MIT © [Luong Dang ](https://github.com/luongkhdang)
+
+
+
+
+
+----------------------
+SELF NOTE:
+read the docs of the following:
+
+fetching data with cache, cancel query
+
+event.preventDefault(), useRef,
+axios : axios, APIClient (axios.create, endpoint, getAll) AxiosRequestConfig, CanceledError
+useContext , react.createContext
+
+@tanstack/react-query 
+	QueryClient, setQueryData
+	useQuery, 
+	useQueryClient
+	useInfiniteQuery,  fetchNextPage
+	useMutation
+
+
+react-infinite-scroll-component
+zustand - create 
+	- simple-zustand=devtools@1.1.0
+
+
+react-router-dom@6.10.0
+	- createBrowserRouter
+	- Link 
+	- usenavigate
+	- useParams
+	- useSearchParams
+	- useLocation
+	- Outlet (is child)
+	- useRouteError , isRouteErrorResponse
+ 
+ ----------------------
